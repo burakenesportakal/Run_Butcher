@@ -758,11 +758,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "   You can control your character with WASD\n   Press ESC to open the
-    Resume Menu\n   Every coin you collect earns you points\n   Every apple you collect
-    earns you more points and speed\n   If you take damage, your speed decreases\n  
+  m_text: "   You can control your character with \"WASD\"\n   Press \"ESC\" to open
+    the Resume Menu\n   Every coin you collect earns you points\n   Every apple you
+    collect earns you more points and speed\n   If you take hit, your speed decreases\n  
     Each time you pass a checkpoint, 5 seconds are added to your remaining time and
-    the game becomes a little more difficult "
+    the game becomes a little more difficult\n   And watch out for the big rocks.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3589790c3ffe6b547b50703bab695fc3, type: 2}
   m_sharedMaterial: {fileID: -7454497708543611032, guid: 3589790c3ffe6b547b50703bab695fc3, type: 2}
@@ -789,7 +789,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 58.25
+  m_fontSize: 56.15
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
