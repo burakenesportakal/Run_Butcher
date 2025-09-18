@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
         if (gameOver) return;
 
         timeLeft -= Time.deltaTime;
-        timeText.text = "Time To Left: " + timeLeft.ToString("F1");
+        timeText.text = "Remaining Time: " + timeLeft.ToString("F1");
 
         if (timeLeft <= 0f) PlayerGameOver();
     }

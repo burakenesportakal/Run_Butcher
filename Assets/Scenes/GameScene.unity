@@ -1861,7 +1861,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Time To Left: 0000'
+  m_text: 'remaining time: 0000'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3589790c3ffe6b547b50703bab695fc3, type: 2}
   m_sharedMaterial: {fileID: -7454497708543611032, guid: 3589790c3ffe6b547b50703bab695fc3, type: 2}
